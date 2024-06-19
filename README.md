@@ -1,4 +1,4 @@
-Quick demo Lego-Project
+Quick demo. Lego-Project
 <br>
 https://lego-project101.netlify.app/
 <br>
